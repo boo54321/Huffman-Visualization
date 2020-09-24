@@ -8,5 +8,5 @@ This repository consists of Huffman implementation along with visualisation for 
   It is the receiver file
 
 # Huffman Implmentation along with visualization
-# GreedyHuffman.py
+## GreedyHuffman.py
   On executing this file, plots will be saved in Output folder
